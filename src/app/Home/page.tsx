@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import './home.css'; // Import custom CSS file
+import './Home.css'; // Import custom CSS file
 
 const Home = () => {
   return (
