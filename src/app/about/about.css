@@ -1,0 +1,44 @@
+/* about.css */
+
+.about-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom right, #00246B, #CADCFC);
+    color: white;
+    padding: 2.5rem;
+  }
+  
+  .about-title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  
+  .about-text {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    max-width: 48rem;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .about-button {
+    padding: 0.75rem 2rem;
+    background-color: #00246B;
+    color: white;
+    border-radius: 9999px;
+    font-size: 1.125rem;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .about-button:hover {
+    background-color: #2655a7;
+  }
+  
