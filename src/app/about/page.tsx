@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import './About.css';
+import './about.css';
 
 export default function About() {
   return (
